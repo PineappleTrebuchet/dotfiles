@@ -179,6 +179,7 @@ title_align center
 exec swaync
 seat seat0 xcursor_theme phinger-cursors-dark 24
 #exec_always autotiling
+exec --no-startup-id /usr/bin/gnome-keyring-daemon --start --components=pkcs11,secrets,ssh
 
 # END
 include /etc/sway/config.d/*
