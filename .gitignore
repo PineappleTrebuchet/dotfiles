@@ -43,3 +43,4 @@ config/peazip/
 config/Thunar/
 config/xfce4/
 config/Vencord/dist
+config/pulse
