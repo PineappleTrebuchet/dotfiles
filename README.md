@@ -20,5 +20,5 @@ Keep in mind that these dotfiles aren't drag-and-drop ready and that this repo i
 - Discord and Vencord
 
 ## Gallery:
-![A Sway desktop screenshot, featuring fastfetch and cmatrix.](assets/102225_231410.png)
-![Another Sway desktop screenshot, this time featuring SwayNC, Fuzzel, and AstroNvim.](assets/102225_231750.png)
+![A Sway desktop screenshot, featuring fastfetch and cmatrix.](assets/102825_214732.png)
+![Another Sway desktop screenshot, this time featuring SwayNC, Fuzzel, Thunar, and AstroNvim.](assets/102825_214857.png)
