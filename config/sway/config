@@ -178,7 +178,7 @@ gaps inner 4
 title_align center
 exec swaync
 seat seat0 xcursor_theme phinger-cursors-dark 24
-exec_always autotiling
+#exec_always autotiling
 
 # END
 include /etc/sway/config.d/*
