@@ -27,7 +27,7 @@ button {
 	outline-style: none;
 } */
 button:focus, button:active {
-	background-color: #373737;
+	background-color: #313131;
 	outline-style: none;
 }
 
