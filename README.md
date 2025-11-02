@@ -13,6 +13,7 @@ Keep in mind that these dotfiles aren't drag-and-drop ready and that this repo i
 - wlogout
 - swaylock
 - swaync
+- Thunar
 ### Optional Dependencies:
 - btop
 - htop
