@@ -1,1 +1,14 @@
 @import url("resource:///org/numixproject/gtk-3.20/dist/gtk-dark.css");
+
+decoration {
+  box-shadow: none;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #85796f;
+}
+decoration:backdrop {
+  box-shadow: none;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #353535;
+}
