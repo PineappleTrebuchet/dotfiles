@@ -373,7 +373,7 @@
       <stop
          id="stop10227"
          offset="0"
-         style="stop-color:#98971a;stop-opacity:1" />
+         style="stop-color:#c0540c;stop-opacity:1" />
       <stop
          id="stop10229"
          offset="1"
@@ -965,11 +965,11 @@
       <stop
          id="stop10448"
          offset="0"
-         style="stop-color:#b8bb26;stop-opacity:1" />
+         style="stop-color:#f0690f;stop-opacity:1" />
       <stop
          id="stop10450"
          offset="1"
-         style="stop-color:#98971a;stop-opacity:1" />
+         style="stop-color:#c0540c;stop-opacity:1" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -1365,7 +1365,7 @@
            height="14"
            width="27"
            id="rect10263"
-           style="fill:url(#radialGradient10367);fill-opacity:1;fill-rule:evenodd;stroke:#98971a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new" />
+           style="fill:url(#radialGradient10367);fill-opacity:1;fill-rule:evenodd;stroke:#c0540c;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new" />
         <rect
            style="opacity:0.15;fill:url(#linearGradient10369);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19827586px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new"
            id="rect10265"

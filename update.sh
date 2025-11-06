@@ -22,6 +22,7 @@ cp ~/.config/swaylock config/ -r
 cp ~/.config/swaync config/ -r
 cp ~/.config/waybar config/ -r
 cp ~/.config/wlogout config/ -r
+cp ~/.config/fastfetch/ config/ -r
 cp ~/.config/pavucontrol.ini config/
 
 cp ~/.icons/* icons/ -r

@@ -93,11 +93,11 @@
       <stop
          id="stop7299"
          offset="0"
-         style="stop-color:#b8bb26;stop-opacity:1" />
+         style="stop-color:#f0690f;stop-opacity:1" />
       <stop
          id="stop7301"
          offset="1"
-         style="stop-color:#b8bb26;stop-opacity:0" />
+         style="stop-color:#f0690f;stop-opacity:0" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -118,7 +118,7 @@
          offset="0"
          id="stop6971" />
       <stop
-         style="stop-color:#b8bb26;stop-opacity:1"
+         style="stop-color:#f0690f;stop-opacity:1"
          offset="1"
          id="stop6973" />
     </linearGradient>
@@ -635,7 +635,7 @@
          inkscape:r_cy="true" />
     </g>
     <path
-       style="opacity:0.5;fill:#b8bb26;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.3612;stroke-opacity:1;display:inline"
+       style="opacity:0.5;fill:#f0690f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.3612;stroke-opacity:1;display:inline"
        d="M 7.999941,10.000092 L 7.999941,24.000092 L 7.999941,29.000092 L 7.999941,31.000092 L 7.999941,33.968842 L 7.999941,35.000092 L 7.999941,36.000092 L 7.999941,37.968842 L 26.999941,37.968842 L 26.999941,36.000092 L 30.999941,36.000092 L 30.999941,33.968842 L 34.999941,33.968842 L 34.999941,31.000092 L 19.999941,31.000092 L 19.999941,29.000092 L 36.999941,29.000092 L 36.999941,24.000092 L 26.999941,24.000092 L 26.999941,23.000092 L 32.999941,23.000092 L 32.999941,21.000092 L 36.999941,21.000092 L 36.999941,12.000092 L 33.999941,12.000092 L 33.999941,10.000092 L 26.999941,10.000092 L 7.999941,10.000092 z"
        id="rect7329" />
     <g

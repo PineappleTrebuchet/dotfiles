@@ -8,13 +8,8 @@ opacity = 1
 normal = {family = "JetBrainsMonoNerdFont"}
 size = 13
 
-# Colors (Gruvbox dark)
-
-# Default colors
 [colors.primary]
-# hard contrast background = = '#1d2021'
 background = '#282828'
-# soft contrast background = = '#32302f'
 foreground = '#d4be98'
 
 # Normal colors

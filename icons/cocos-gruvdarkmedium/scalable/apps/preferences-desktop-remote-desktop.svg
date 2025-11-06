@@ -209,7 +209,7 @@
     <linearGradient
        id="linearGradient2699">
       <stop
-         style="stop-color:#b8bb26;stop-opacity:1"
+         style="stop-color:#f0690f;stop-opacity:1"
          offset="0"
          id="stop2701" />
       <stop
@@ -410,7 +410,7 @@
        rx="0.9375"
        ry="0.9375" />
     <rect
-       style="opacity:1;fill:#b8bb26;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.20000057;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       style="opacity:1;fill:#f0690f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.20000057;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
        id="rect4729"
        width="8"
        height="1"
@@ -428,7 +428,7 @@
        rx="0.9375"
        ry="0.9375" />
     <rect
-       style="opacity:1;fill:#b8bb26;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.20000057;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       style="opacity:1;fill:#f0690f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.20000057;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
        id="rect4733"
        width="11"
        height="1"

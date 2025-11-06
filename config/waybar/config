@@ -98,7 +98,7 @@
     "tooltip-disconnected": false,
     "family": "ipv4",
     "interval": 1,
-    "on-click": "nm-connection-editor"
+    "on-click": "nm-connection-editor;"
 },
 
 "temperature": {

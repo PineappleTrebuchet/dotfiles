@@ -10,8 +10,8 @@
 @define-color noti-bg-focus rgba(27, 27, 27, 0.6);
 @define-color text-color #d4be98;
 @define-color text-color-disabled #bdae93;
-@define-color bg-selected #98971a;
-@define-color accent #98971a;
+@define-color bg-selected #d96e26;
+@define-color accent #d96e26;
 
 :root {
   --border-radius: 0px;
@@ -45,7 +45,8 @@
     background: @cc-bg;
     padding: 7px;
     border-radius: 0px;
-    border: 1px solid #333333;
+    /* border: 1px solid #343434; */
+    border: 1px solid transparent;
     margin: 0;
 }
  

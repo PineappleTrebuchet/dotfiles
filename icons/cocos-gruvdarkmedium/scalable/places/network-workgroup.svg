@@ -373,7 +373,7 @@
       <stop
          id="stop7405"
          offset="0"
-         style="stop-color:#b8bb26;stop-opacity:1" />
+         style="stop-color:#f0690f;stop-opacity:1" />
       <stop
          id="stop7407"
          offset="1"
@@ -513,11 +513,11 @@
        inkscape:collect="always"
        id="linearGradient4391">
       <stop
-         style="stop-color:#b8bb26;stop-opacity:1"
+         style="stop-color:#f0690f;stop-opacity:1"
          offset="0"
          id="stop4393" />
       <stop
-         style="stop-color:#b8bb26;stop-opacity:0"
+         style="stop-color:#f0690f;stop-opacity:0"
          offset="1"
          id="stop4395" />
     </linearGradient>
@@ -799,7 +799,7 @@
     <linearGradient
        id="linearGradient2711">
       <stop
-         style="stop-color:#b8bb26;stop-opacity:1"
+         style="stop-color:#f0690f;stop-opacity:1"
          offset="0"
          id="stop2713" />
       <stop
@@ -1314,7 +1314,7 @@
     </g>
     <path
        sodipodi:type="arc"
-       style="fill:#d0d0ca;fill-opacity:1;stroke:#b8bb26;stroke-width:1.31249964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#d0d0ca;fill-opacity:1;stroke:#f0690f;stroke-width:1.31249964;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6851"
        sodipodi:cx="35.625"
        sodipodi:cy="27.5625"

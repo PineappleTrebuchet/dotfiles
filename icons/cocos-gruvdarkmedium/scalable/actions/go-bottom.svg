@@ -53,11 +53,11 @@
     <linearGradient
        id="linearGradient3166">
       <stop
-         style="stop-color:#b8bb26;stop-opacity:1;"
+         style="stop-color:#f0690f;stop-opacity:1;"
          offset="0"
          id="stop3168" />
       <stop
-         style="stop-color:#98971a;stop-opacity:1;"
+         style="stop-color:#c0540c;stop-opacity:1;"
          offset="1"
          id="stop3170" />
     </linearGradient>
@@ -154,7 +154,7 @@
        height="4.0000119"
        width="33.000008"
        id="rect4242"
-       style="fill:#98971a;fill-opacity:1;fill-rule:nonzero;stroke:#3c3836;stroke-width:0.99999982;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+       style="fill:#c0540c;fill-opacity:1;fill-rule:nonzero;stroke:#3c3836;stroke-width:0.99999982;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
     <rect
        y="41.506355"
        x="8.5398045"

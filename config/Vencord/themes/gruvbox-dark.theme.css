@@ -68,8 +68,8 @@
 
 /*	--gruv-dark-accent: var(--gruv-dark-green-light);
 	--gruv-dark-accent-hover: var(--gruv-dark-green-dark);*/
-	--gruv-dark-accent: var(--gruv-dark-green-light);
-	--gruv-dark-accent-hover: var(--gruv-dark-green-dark);
+	--gruv-dark-accent: var(--gruv-dark-orange-light);
+	--gruv-dark-accent-hover: var(--gruv-dark-orange-dark);
 
 	--gruv-dark-icon-color: var(--gruv-dark-fg2);
 	--gruv-dark-icon-color-hover: var(--gruv-dark-fg);
@@ -90,8 +90,8 @@
 	--gruv-dark-button-alt-default: var(--gruv-dark-bg-soft);
 	--gruv-dark-button-alt-hover:   var(--gruv-dark-bg);
 
-	--gruv-dark-button-positive-default: var(--gruv-dark-green-dark);
-	--gruv-dark-button-positive-hover:   rgba(var(--gruv-dark-green-dark), 0.8);
+	--gruv-dark-button-positive-default: var(--gruv-dark-orange-dark);
+	--gruv-dark-button-positive-hover:   rgba(var(--gruv-dark-orange-dark), 0.8);
 	
 	--gruv-dark-input-box-background: var(--gruv-dark-bg-soft);
 
@@ -100,14 +100,14 @@
 
 	--gruv-dark-selected-tab: var(--gruv-dark-bg1);
 
-	--gruv-dark-status-online: var(--gruv-dark-green-dark);
+	--gruv-dark-status-online: var(--gruv-dark-orange-dark);
 	--gruv-dark-status-offline: var(--gruv-dark-text-muted);
 	--gruv-dark-status-idle: rgba(var(--gruv-dark-accent), 0.8);
 	--gruv-dark-status-dnd: var(--gruv-dark-red-dark);
 
-	--vc-spotify-green: rgba(var(--gruv-dark-green-dark));
-	--vc-spotify-green-90: rgba(var(--gruv-dark-green-dark), 0.2);
-	--vc-spotify-green-80: rgba(var(--gruv-dark-green-dark), 0.3);
+	--vc-spotify-green: rgba(var(--gruv-dark-orange-dark));
+	--vc-spotify-green-90: rgba(var(--gruv-dark-orange-dark), 0.2);
+	--vc-spotify-green-80: rgba(var(--gruv-dark-orange-dark), 0.3);
 }
 
 .visual-refresh.theme-dark,
