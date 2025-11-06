@@ -7,7 +7,7 @@ set $term alacritty
 set $menu fuzzel
 
 #output * bg /home/cocotreb/Pictures/Backgrounds/arietty.jpeg fill
-exec_always swaybg -c 303030
+exec_always swaybg -c 313131
 
 # Example configuration:
 #
