@@ -9,6 +9,7 @@ Keep in mind that these dotfiles aren't drag-and-drop ready and that this repo i
 - fuzzel
 - alacritty
 - waybar
+- Phinger Cursors
 - neovim
 - wlogout
 - swaylock
@@ -26,10 +27,9 @@ Keep in mind that these dotfiles aren't drag-and-drop ready and that this repo i
 3. Tweak the filepaths in the config files.
 4. Presto! You are ready to go.
 
-## Gallery:
-![A Sway desktop screenshot, featuring fastfetch and cmatrix.](assets/102825_214732.png)
-![Another Sway desktop screenshot, this time featuring SwayNC, Fuzzel, Thunar, and AstroNvim.](assets/102825_214857.png)
+## Gallery
+(In progress!)
 
 ### TODO:
-- Add the images used for the backgrounds into the repo.
 - Install and implement ewww
+- Remake gallery
