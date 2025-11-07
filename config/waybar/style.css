@@ -20,7 +20,7 @@
 window#waybar { 
   background-color: @black; 
   color: @font-color;
-  /* border-bottom: 1px solid @grey; */
+  border-bottom: 1px solid @grey;
 }
 
 tooltip {
@@ -70,7 +70,7 @@ tooltip {
 }
 
 #tray {
-	margin: 0px 6px 0px 6px;
+	margin: 0px 7px 0px 5px;
 }
 
 #idle_inhibitor {

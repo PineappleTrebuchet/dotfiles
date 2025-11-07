@@ -1,3 +1,5 @@
+@define-color border-color #313131;
+
 * {
 	background-image: none;
 	box-shadow: none;
@@ -33,24 +35,34 @@ button:focus, button:active {
 
 #lock {
     background-image: image(url("/home/cocotreb/.config/wlogout/icons/lock.png"));
+    border-left: 1px solid @border-color;
+    border-top: 1px solid @border-color;
 }
 
 #logout {
     background-image: image(url("/home/cocotreb/.config/wlogout/icons/logout.png"));
+    border-top: 1px solid @border-color;
 }
 
 #suspend {
     background-image: image(url("/home/cocotreb/.config/wlogout/icons/suspend.png"));
+    border-top: 1px solid @border-color;
+    border-right: 1px solid @border-color;
 }
 
 #hibernate {
     background-image: image(url("/home/cocotreb/.config/wlogout/icons/hibernate.png"));
+    border-bottom: 1px solid @border-color;
+    border-left: 1px solid @border-color;
 }
 
 #shutdown {
     background-image: image(url("/home/cocotreb/.config/wlogout/icons/shutdown.png"));
+    border-bottom: 1px solid @border-color;
 }
 
 #reboot {
     background-image: image(url("/home/cocotreb/.config/wlogout/icons/reboot.png"));
+    border-bottom: 1px solid @border-color;
+    border-right: 1px solid @border-color;
 }
