@@ -7,7 +7,7 @@
 }
 
 window {
-	background-color: rgba(23, 23, 23, 0.5);
+	background-color: rgba(30, 30, 30, 0.5);
 }
 
 button {
@@ -27,7 +27,7 @@ button {
 	outline-style: none;
 } */
 button:focus, button:active {
-	background-color: #313131;
+	background-color: #303030;
 	outline-style: none;
 }
 

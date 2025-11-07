@@ -7,7 +7,7 @@ set $term alacritty
 set $menu fuzzel
 
 #output * bg /home/cocotreb/Pictures/Backgrounds/arietty.jpeg fill
-exec_always swaybg -c 313131
+exec_always swaybg -c 303030
 
 # Example configuration:
 #
@@ -167,9 +167,9 @@ bindsym $mod+r mode "resize"
 # Colors:
 #
 client.focused          #282828 #282828 #d4be98 #6f665d #6f665d
-client.focused_inactive #343434 #343434 #d4be98 #37373700 #37373700
-client.unfocused        #343434 #343434 #d4be98 #37373700 #37373700
-client.urgent           #d96e26 #343434 #d4be98 #d96e26 #d96e26
+client.focused_inactive #303030 #303030 #d4be98 #37373700 #37373700
+client.unfocused        #303030 #303030 #d4be98 #37373700 #37373700
+client.urgent           #d96e26 #303030 #d4be98 #d96e26 #d96e26
 
 # Waybar:
 #
