@@ -29,7 +29,7 @@ Keep in mind that these dotfiles aren't drag-and-drop ready and that this repo i
 
 ## Gallery
 ![An image of my blank desktop.](110725_143409.png)
-![An image of my desktop, with several open workspaces, apps in my tray, and various aesthetic terminal tools.](110725_162210.png)
+![An image of my desktop, with several open workspaces, apps in my tray, and various aesthetic terminal tools.](110725_173250.png)
 
 ### TODO:
 - Install and implement ewww
