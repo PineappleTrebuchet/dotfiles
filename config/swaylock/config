@@ -5,7 +5,8 @@ datestr=%a %b %d
 ignore-empty-password
 font=SpaceMono
 screenshots
-effect-blur=20x6
+effect-blur=10x4
+effect-vignette=0.65:0.6
 
 indicator
 indicator-radius=275
@@ -22,18 +23,18 @@ text-clear=Cleared
 text-ver=...
 text-wrong=Incorrect
 
-text-color=#d4be98
-text-clear-color=#d4be98
-text-ver-color=#d4be98
-text-wrong-color=#d4be98
-text-caps-lock-color=#d4be98
+text-color=#d96e26
+text-clear-color=#d96e26
+text-ver-color=#d96e26
+text-wrong-color=#d96e26
+text-caps-lock-color=#d96e26
 
-ring-color=#d4be9800
-ring-clear-color=#d4be9800
-ring-ver-color=#d4be9800
-ring-wrong-color=#d4be9800
+ring-color=#d96e2600
+ring-clear-color=#d96e2600
+ring-ver-color=#d96e2600
+ring-wrong-color=#d96e2600
 
-bs-hl-color=#d4be98
-key-hl-color=#d4be98
+bs-hl-color=#d96e26
+key-hl-color=#d96e26
 
-separator-color=#d4be9800
+separator-color=#d96e2600
